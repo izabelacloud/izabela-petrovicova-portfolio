@@ -11,8 +11,8 @@ We use GitHub (https://github.com/) for versioning. For the versions available, 
 
 ## Website Preview
 
-![Izabela Petrovicova's Portfolio Header](https://github.com/izabelacloud/Assignment1/blob/master/assets/images/Horiseon%20SEO%20Header.png?raw=true)
-![Izabela Petrovicova's Portfolio Header](https://github.com/izabelacloud/Assignment1/blob/master/assets/images/Horiseon%20SEO%20Body.png?raw=true)
+![Izabela Petrovicova's Portfolio Header](https://github.com/izabelacloud/izabela-petrovicova-portfolio/blob/master/assets/images/ip-portfolio-header.png?raw=true)
+![Izabela Petrovicova's Portfolio Header](https://github.com/izabelacloud/izabela-petrovicova-portfolio/blob/master/assets/images/ip-portfolio-body.png?raw=true)
 
 ## Authors
 * **Izabela Petrovicova** - [izabelacloud](https://github.com/izabelacloud)
