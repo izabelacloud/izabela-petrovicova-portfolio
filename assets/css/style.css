@@ -262,3 +262,17 @@
   footer {
       padding: 30px;
   }
+
+  /* Media Query for smaller desktop screens and smaller */
+
+  @media screen and (max-width: 980px) {
+  
+  }
+  
+  @media screen and (max-width: 768px) {
+  
+  }
+  
+  @media screen and (max-width: 575px) {
+  
+  }

@@ -9,7 +9,10 @@ We use GitHub (https://github.com/) for versioning. For the versions available, 
 
 ## Website Preview
 
-![Izabela Petrovicova Porfolio - TBD](TBD)
+## Website Preview
+
+![Izabela Petrovicova's Portfolio Header](https://github.com/izabelacloud/Assignment1/blob/master/assets/images/Horiseon%20SEO%20Header.png?raw=true)
+![Izabela Petrovicova's Portfolio Header](https://github.com/izabelacloud/Assignment1/blob/master/assets/images/Horiseon%20SEO%20Body.png?raw=true)
 
 ## Authors
 * **Izabela Petrovicova** - [izabelacloud](https://github.com/izabelacloud)
