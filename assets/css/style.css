@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  :root {
+      --main-frame-color: rbga(206, 209, 219, 1.0);
+      --title-color: rbga(116, 121, 138, 1.0);
+      --line-color: rbga(113, 120, 143, 1.0);
+  }
+
+  .hero {
+      background-color: var(--main-frame-color);
+  }
+
+  .work h2 {
+      color: var(--title-color);
+  }
